@@ -1,7 +1,7 @@
-#Excursions   
+#Excursions 
 
-##Онлайн-сервис заказа экскурсий
-Данный сервис дат возможность выбрать самые лучшие экскурсии в любом городе,узнать самые интересные места в нём,и приятно провести время.Если вы любите путешествовать,оказались проездом в городе,и вы что-то хотите узнать о нём-мы вам поможем!
+##Online-service
+Our web-service provides you with the possibility to purchase some route with the descriptions,see photo with the description of other users,and just enjoy travelling - you definitely need us
 
 ##Status
 
@@ -9,6 +9,8 @@ There will at least one release,closer to the New Year.  Small updates are done 
 
 ##Getting involved
 
-Write on email of any contributors
+Write on email of any contributors - look at Contributors.md
 
+##License
 
+Our project is available under the MIT license.See License.md for more information
